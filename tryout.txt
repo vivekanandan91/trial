@@ -1,0 +1,7 @@
+Steps
+
+1. Fork the project
+2. Checkout from your Account
+3. Create a file using your EMPID and update your hobbies
+4. Commit and push
+5. Raise a pull request considering my master branch as BASE
